@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**KennyTK/KennyTK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hiya 👋
 
 - 🔭 I’m currently working on a Hydraulic Controller for MGA Research
 - 🌱 I’m currently learning .NET, WinForms, Win UI 3, and XAML
