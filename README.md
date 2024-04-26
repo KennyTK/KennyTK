@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with event aggregation and logging decoration
 - 💬 Ask me about 3D Printing, Volkswagen MKIV's, Automotive lifecycle testing or FIRST Robotics
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 1.6 million views on my Google Guides photos
+- ⚡ Fun fact: I have 1.7 million views on my Google Guides photos
