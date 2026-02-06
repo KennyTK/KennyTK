@@ -1,4 +1,4 @@
-### Hiya I'm Kenny👋
+## Hiya I'm Kenny👋
 
 - 🔭 Working on a test signboard generation program
 - 📸 Hobbying a photo directory creator/sorter
@@ -7,3 +7,7 @@
 - 💬 Ask me about 3D Printing, Volkswagen MKIV's, Electric Vehicle Batteries or FIRST Robotics
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 1.8 million views on my Google Guides photos
+
+### Recent blog posts
+
+[To blog or not to blog](https://kennytk.github.io/2026/02/06/to-blog-or-not-to-blog.html)
